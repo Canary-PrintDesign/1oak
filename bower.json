@@ -1,0 +1,7 @@
+{
+  "name": "1oak",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
